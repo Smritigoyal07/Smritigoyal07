@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smritigoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="smritigoyal07" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning - **JavaScript**
 
 - 📫 How to reach me **smritigoyal681@gmail.com**
 
