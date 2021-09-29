@@ -1,5 +1,5 @@
 <!-- <h1 align="center">
- <img src="https://user-images.githubusercontent.com/85681121/135332171-b461d8b6-1eac-4794-901e-5b19839f179f.PNG" />
+ <img src="https://user-images.githubusercontent.com/85681121/135332765-f3830456-02c5-4edd-b570-187b4a17af2f.PNG" />
 </h1> -->
 <h1 align="center">Hi 👋, I'm Smriti Goyal</h1>
 <h3 align="center">An IT Sophomore girl who loves exploring new fields.</h3>
