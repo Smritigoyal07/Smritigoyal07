@@ -2,7 +2,7 @@
  <img src="https://user-images.githubusercontent.com/85681121/135332765-f3830456-02c5-4edd-b570-187b4a17af2f.PNG" />
 </h1> -->
 <h1 align="center">Hi 👋, I'm Smriti Goyal</h1>
-<h3 align="center">An IT Sophomore girl who loves exploring new fields.</h3>
+<h3 align="center">An IT 3rd Year girl who loves exploring new fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smritigoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="smritigoyal07" /> </p>
 
